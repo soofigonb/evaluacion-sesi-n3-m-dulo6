@@ -1,0 +1,16 @@
+{
+  "name": "evaluacion3",
+  "version": "1.0.0",
+  "description": "Creando proyecto de evalucion sesion 3 módulo 6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofía Gónzalez Barra",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "lodash": "^4.17.21"
+  }
+}
